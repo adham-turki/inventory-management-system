@@ -3,8 +3,8 @@
 - My project is about selling different items for the customers
 - We have orders that contains the items that have been sold
 - Every item made in a certain company
-- we will design rest api to make the operation on the core resourses
-- every core resourse can be updated, add a new one from it and also delete it
+- We will design rest api to make the operation on the core resourses
+- Every core resourse can be updated, add a new one from it and also delete it
 
 Here is the ER Diagram for the database:
 ![ER-Diagram](https://github.com/adham-turki/inventory-management-system/assets/140730348/98d6bc03-9671-475e-8125-a64f0ebe5c3f)
