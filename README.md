@@ -9,7 +9,7 @@
 Here is the ER Diagram for the database:
 ![ER-Diagram](https://github.com/adham-turki/inventory-management-system/assets/140730348/98d6bc03-9671-475e-8125-a64f0ebe5c3f)
 
-- HTTP request (method URI):
+- HTTP requests (methods URI):
   
 - Orders:
 - GET /orders :
