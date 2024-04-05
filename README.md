@@ -502,8 +502,9 @@ Here is the ER Diagram for the database:
   "price": 60.00
 
 }
+- The swaggerhub link : https://app.swaggerhub.com/apis/ADHAMTURKI321/Inventory-Management-system/1.0.0#/
 
-the APIs design using OpenAPI specification 3.1.0 :
+- the APIs design using OpenAPI specification 3.1.0 :
 
 
 openapi: 3.1.0
