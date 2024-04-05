@@ -21,6 +21,23 @@ Here is the ER Diagram for the database:
                         401 (Unauthorized) : Indicates that the request requires user authentication information./
                         404 (Not Found) : The server can not find the requested resource./
                         501 (Not Implemented) : The HTTP method is not supported by the server and cannot be handled./
+- Request Sample : no request Body for this endpoint
+- Response Sample : {
+  "orders": [
+    {
+      "orderID": "123456",
+      "customerID": "789",
+      "items": ["item1", "item2"],
+      "total": 100.50
+    },
+    {
+      "orderID": "789012",
+      "customerID": "456",
+      "items": ["item3"],
+      "total": 50.25
+    }
+  ]
+} 
   
 - GET /orders/{orderID} :
 - Operation : Read order info
