@@ -1,4 +1,5 @@
 # inventory-management-system
+- API Project :
 - the 4 core resourses is : item, customer, order, company
 - My project is about selling different items for the customers
 - We have orders that contains the items that have been sold
