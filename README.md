@@ -7,7 +7,7 @@
 - Every core resourse can be updated, add a new one from it and also delete it
 
 Here is the ER Diagram for the database:
-![ER-Diagram](https://github.com/adham-turki/inventory-management-system/assets/140730348/98d6bc03-9671-475e-8125-a64f0ebe5c3f)
+![image](https://github.com/adham-turki/inventory-management-system/assets/140730348/dae0448d-7704-4801-b87c-b831068ac547)
 
 - HTTP requests (methods URI):
   
